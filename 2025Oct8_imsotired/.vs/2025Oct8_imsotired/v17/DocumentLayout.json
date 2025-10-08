@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\2025Oct8_imsotired\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EDABD4-CEA8-4F63-A6B6-AEA6C9D29078}|2025Oct8_imsotired\\2025Oct8_imsotired.vcxproj|C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\2025Oct8_imsotired\\2025Oct8_imsotired\\2025Oct8_sotired.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5EDABD4-CEA8-4F63-A6B6-AEA6C9D29078}|2025Oct8_imsotired\\2025Oct8_imsotired.vcxproj|solutionrelative:2025Oct8_imsotired\\2025Oct8_sotired.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2025Oct8_sotired.c",
+              "DocumentMoniker": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\2025Oct8_imsotired\\2025Oct8_imsotired\\2025Oct8_sotired.c",
+              "RelativeDocumentMoniker": "2025Oct8_imsotired\\2025Oct8_sotired.c",
+              "ToolTip": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\2025Oct8_imsotired\\2025Oct8_imsotired\\2025Oct8_sotired.c",
+              "RelativeToolTip": "2025Oct8_imsotired\\2025Oct8_sotired.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-08T14:08:45.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
