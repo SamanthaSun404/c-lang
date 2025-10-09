@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\test2025Oct09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F022736E-BAF1-480A-AB53-9FE423595142}|test2025Oct09\\test2025Oct09.vcxproj|C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\test2025Oct09\\test2025Oct09\\test_2025Oct09.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F022736E-BAF1-480A-AB53-9FE423595142}|test2025Oct09\\test2025Oct09.vcxproj|solutionrelative:test2025Oct09\\test_2025Oct09.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_2025Oct09.c",
+              "DocumentMoniker": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\test2025Oct09\\test2025Oct09\\test_2025Oct09.c",
+              "RelativeDocumentMoniker": "test2025Oct09\\test_2025Oct09.c",
+              "ToolTip": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\test2025Oct09\\test2025Oct09\\test_2025Oct09.c",
+              "RelativeToolTip": "test2025Oct09\\test_2025Oct09.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-09T13:24:14.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
