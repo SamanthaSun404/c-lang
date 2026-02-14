@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\homework_1012\\test10160214\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE1444F-ED7A-4B9F-BF7A-EF42D7BF005B}|test10160214.vcxproj|C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\homework_1012\\test10160214\\test20260214.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCE1444F-ED7A-4B9F-BF7A-EF42D7BF005B}|test10160214.vcxproj|solutionrelative:test20260214.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test20260214.c",
+              "DocumentMoniker": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\homework_1012\\test10160214\\test20260214.c",
+              "RelativeDocumentMoniker": "test20260214.c",
+              "ToolTip": "C:\\Users\\sunch\\Desktop\\C\u8BED\u8A00\\course_PengGe_2025\\homework_1012\\test10160214\\test20260214.c*",
+              "RelativeToolTip": "test20260214.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-14T09:25:31.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
